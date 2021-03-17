@@ -61,7 +61,7 @@
               <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
             <?var url = getUrl();?>
-            <form class="form-signin" method="post" name="laporan-mingguan-dan-bulanan" action="<?= Url ?>">
+            <form class="form-signin" method="post" name="laporan-mingguan-dan-bulanan" actio>
               <center>
                 <h2 class="form-signin-heading" style="font-family: ariel;">Laporan Bulanan dan Mingguan</h2>
               </center>
@@ -121,7 +121,7 @@
               </button>
             </form>
             <p class="mb-5">We're working hard to finish the development of this site. Our target launch date is
-              <strong>January 2022</strong>! Sign up for updates using the form below!
+              <strong>January 2021</strong>! Sign up for updates using the form below!
             </p>
             <div class="input-group input-group-newsletter">
               <input type="email" class="form-control" placeholder="Enter email..." aria-label="Enter email..." aria-describedby="submit-button">
